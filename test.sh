@@ -1,1 +1,1 @@
-echo "hello"
+sudo apt install vlc
